@@ -1,0 +1,16 @@
+@import "../../../app/globals.css";
+
+
+
+.active {
+
+  padding: 5px 10px;
+  background-color: var(--btn);
+  color: white;
+  border-radius: 5px;
+  // font-weight: bold;
+}
+
+.in-active {
+  color: #242424;
+}

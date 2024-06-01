@@ -1,0 +1,19 @@
+.nav-container {
+
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .logo-container {
+    height: 40px;
+    width: auto;
+    background-color: rebeccapurple;
+
+    .logo {
+      height: 40px;
+      object-fit: cover;
+    }
+
+  }
+}
